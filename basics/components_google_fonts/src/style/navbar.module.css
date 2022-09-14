@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+.container{
+    position: absolute;
+    width: 550px;
+    height: 91px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #21222A;
+    ;
+}
+.logoContainer{
+    display: flex;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.brand{
+    position: absolute;
+    width: 122.39px;
+    height: 22.25px;
+    left: 61.61px;
+    top: 31px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.2535px;
+    line-height: 27px;
+    letter-spacing: -0.05em;
+    color: #61DAFB;
+}
+.course{
+    position: absolute;
+    width: 259px;
+    height: 21px;
+    left: 264px;
+    top: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+
+    color: #DEEBF8;
+}

@@ -1,0 +1,35 @@
+.heroContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100vw;
+    height:50vh;
+}
+
+.heroLeft{
+    padding: 50px;
+    text-align: left;
+    color: rgb(43, 43, 43);
+}
+.btn{
+    background-color: rgba(255, 60, 0, 0.952);
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    padding: 5px 10px 5px 10px;
+}
+.subHeading{
+    font-size: 30px;
+    padding-top: 30px;
+}
+.para{
+    font-size: 24px;
+}
+
+.heroRight{
+    padding: 50px;
+}
+.heroImg{
+    height: 60vh;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid rgb(49, 49, 49);
+}
